@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mrdesandu/mrdesandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey 👋, I'm Desandu Hasnaka
 
-Here are some ideas to get you started:
+### Undergraduate Student | Media Coordinator | Aspiring QA Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub views](https://komarev.com/ghpvc/?username=mrdesandu&color=blue)](https://github.com/mrdesandu)
+
+---
+
+I am a passionate technologist focused on software quality assurance, sustainability, and community leadership. Currently serving as the Media Coordinator for the NSBM Circularity and Sustainability Community.
+
+</div>
+
+### 🛠️ Tech Stack & Interests
+* **Languages & Frameworks:** C++, Node.js, Express
+* **Fields of Interest:** Software Quality Assurance (QA), Computational Theory, Statistics
+* **Current Roles:** Media Coordinator @ NSBM Circularity & Sustainability Community | Volunteer @ NSBM Volunteer Club
+
+### 🤝 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/desanduhasnaka) | [Email](mailto:desanduwsen@gmail.com)
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrdesandu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
